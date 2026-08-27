@@ -1,7 +1,7 @@
 # 🖤 Vinozer Shahul F
 
 <p align="center">
-  <img src="Profile.jpeg" width="240" height="240" alt="Vinozer Shahul F" />
+  <img src="vinozer.png" width="240" height="240" alt="Vinozer Shahul F" />
 </p>
 
 <p align="center">
