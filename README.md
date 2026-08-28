@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shafaportfolio.netlify.app/">
+  <a href="https://vinozershahul.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-FF3131?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://leetcode.com/u/CzvapPHi6X/">
@@ -173,7 +173,7 @@ A modern responsive portfolio showcasing my **AI/ML projects, Data Science work,
 
 **Tech:** `React` `HTML` `CSS` `JavaScript`
 
-🌐 **[Visit My Portfolio](https://shafaportfolio.netlify.app/)**
+🌐 **[Visit My Portfolio](https://vinozershahul.netlify.app/)**
 
 ---
 
@@ -353,7 +353,7 @@ A modern responsive portfolio showcasing my **AI/ML projects, Data Science work,
   <img src="https://img.shields.io/badge/LeetCode-FF3131?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 
-<a href="https://shafaportfolio.netlify.app/">
+<a href="https://vinozershahul.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF3131?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
